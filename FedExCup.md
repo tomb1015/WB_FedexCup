@@ -43,3 +43,15 @@ Points are awarded used the standard PGA FEDEX Cup points system for regular tou
 |13|60|28|31|43|13|
 |14|57|29|29.5|44|12|
 |15|55|30|28|45|11|
+
+## How long is the season
+
+The season starts the first week of the Wormburners league and goes until the last game of regular season. Playoffs and special events are not included in the FEDEX cup.
+
+## What if there is a tie at the end of the season
+	
+In case of a tie, point totals are added together and divided among all golfers tied for a particular position at the end of a tournament. For example, if two golfers finish tied for first place, the first and second place payouts are summed and divided by two, with each of the golfers receiving the same amount of the payout.
+
+## What if I can’t play because the wife stole my clubs, my wrist hurts, I am on vacation, or any other reason
+	
+Once you in the league you are in the league. If you miss a week you will receive 0 points for that week. If for some reason you are not able to finish the season there are NO REFUNDS, deal with it.
