@@ -1,4 +1,4 @@
-# Wormburners FEDEX Cup
+# Wormburners FEDEX Cup Rules
 
 ## What is the FEDEX Cup
 
@@ -25,3 +25,21 @@ Money collected will be split between the top 3 points positions. First place wi
 ## How are points awarded
 
 Points are awarded used the standard PGA FEDEX Cup points system for regular tour events. In the table below you will see the point for position 1 thru 45. We will assign the points based off of each weeks scoring using the net score of each player in the cup. In case of a tie, point totals are added together and divided among all golfers tied for a particular position at the end of a tournament. For example, if four golfers finish tied for fifth place, the fifth through eighth place points are summed and divided by four, with each of the golfers receiving the same number of points.
+
+|Position|Points|Position|Points|Position|Points|
+|:------:|:----:|:------:|:----:|:------:|:----:|
+|1|500|16|53|31|26.5|
+|2|300|17|51|32|25|
+|3|190|18|49|33|23.5|
+|4|135|19|47|34|22|
+|5|110|20|45|35|21|
+|6|100|21|43|36|20|
+|7|90|22|41|37|19|
+|8|85|23|39|38|18|
+|9|80|24|37|39|17|
+|10|75|25|35.5|40|16|
+|11|70|26|34|41|15|
+|12|65|27|32.5|42|14|
+|13|60|28|31|43|13|
+|14|57|29|29.5|44|12|
+|15|55|30|28|45|11|
